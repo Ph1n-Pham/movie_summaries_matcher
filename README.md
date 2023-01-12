@@ -2,4 +2,4 @@
 
 
 
-# Libraries: pandas, pyemd, numpy, gensim, nltk
+Libraries: pandas, pyemd, numpy, gensim, nltk
